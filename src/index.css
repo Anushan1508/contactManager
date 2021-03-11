@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ ul{
+  color: rgb(35, 35, 71); 
+  padding-block: 5%;
+  background-color: rgb(119, 129, 129);
+ }
+
+ button {
+   border-radius: 10%;
+ }
